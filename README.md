@@ -1,5 +1,6 @@
 # WarsOnCards
 An interactive card game script written in python 3.13.  
+Modules utilized: `typing`, `random`  
 The game involves distributing a deck of **52** well shuffled cards between the player and computer, which then turns into a one-on-one showdown between the topmost cards in either deck.  
 The cards are ranked in power as follows:  
   
