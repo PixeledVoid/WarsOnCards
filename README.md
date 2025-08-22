@@ -5,7 +5,7 @@ The game involves distributing a deck of **52** well shuffled cards between the 
 The cards are ranked in power as follows:  
   
 |Cards (All Suits)|Power|
-|:----| ----:|
+|:----:| :----:|
 |Ace|13|
 |King|12|
 |Queen|11|
